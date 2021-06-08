@@ -1,7 +1,1 @@
-  
-exclude: ["local"]
-url: https://rasputin2020.github.io/
-permalink: /:categories/:year/:title.html
-markdown: redcarpet
-redcarpet:
-    extensions: ["fenced_code_blocks", "no_intra_emphasis", "tables", "autolink", "strikethrough"]
+theme: jekyll-theme-cayman
