@@ -23,7 +23,7 @@ repository: github.com/rasputin2020/rasputin2020.github.io
 paginate: 5
 
 # MatJek specific configurations
-github_profile: "https://github.com/rasputin2020"
+github_profile: ""
 user: "DAS"
 user_email: "?"
 contact_url: "https://goo.gl/tVljbV"
