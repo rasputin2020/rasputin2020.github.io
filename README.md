@@ -1,4 +1,4 @@
-# MatJek
+# ?
 
 A responsive [Material](https://material.io/) theme based on [Materialize.css](http://materializecss.com/) for jekyll sites.
 
@@ -6,10 +6,10 @@ A responsive [Material](https://material.io/) theme based on [Materialize.css](h
 
 * Google Analytics
 * Disqus
-* [GitHub project page](https://shawnteoh.github.io/matjek/projects/)
-* [Tags](https://shawnteoh.github.io/matjek/tags/) and [Categories](https://shawnteoh.github.io/matjek/categories/)
-* Modular CSS and JS includes ([example](https://github.com/ShawnTeoh/matjek/blob/gh-pages/projects.md/))
-* [Fancy "About" page](https://shawnteoh.github.io/matjek/about)
+
+* [Tags](https://shawnteoh.github.io/matjek/tags/) and [Categories]()
+* Modular CSS and JS includes ([example]()
+* [Fancy "About" page]()
 
 ## Installation
 
