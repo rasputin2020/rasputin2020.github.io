@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://rasputin2020.github.io"
 permalink: /:year/:month/:day/:title
-repository: github.com/rasputin2020/rasputin2020.github.io
+repository: 
 paginate: 5
 
 # MatJek specific configurations
