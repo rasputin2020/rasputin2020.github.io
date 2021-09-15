@@ -1,5 +1,8 @@
 ## ？一个俄 
 
+ctr + shift + 1 
+ctr + shift + 2
+
 You can use the [editor on GitHub](https://github.com/rasputin2020/rasputin2020.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -14,6 +17,8 @@ Syntax highlighted code block
 # Header 121311351313132132
 ## Header 2
 ### Header 3
+
+
 
 - Bulleted
 - List
