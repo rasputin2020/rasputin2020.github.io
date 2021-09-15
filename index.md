@@ -33,7 +33,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ```
  Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [highlighted]  
 ```
-
+``
+as a  
+``
 (https://github.com/rasputin2020/rasputin2020.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
