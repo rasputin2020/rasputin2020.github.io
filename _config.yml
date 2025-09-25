@@ -14,9 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DAS
-description: > # this means to ignore newlines until "baseurl:"
-  
-baseurl: ""
+
 url: "https://rasputin2020.github.io"
 permalink: /:year/:month/:day/:title
 repository: 
